@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@500&family=Karma:wght@300&family=Mate:ital@1&family=Roboto+Slab:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@1,6..12,300&display=swap');
+
+nav{
+    background-color:#caadad;
+}
+
+nav ul li{
+list-style: none;
+display:inline-block;
+background-color: #caadad;
+}
+
+
+nav ul li a{
+color: black;
+text-decoration: none;
+padding-left: 60px;
+padding-right:60px;
+font-family: 'Heebo', sans-serif;
+}
+
+header{
+    padding-bottom: 5px;
+}
+
+
+h1{
+    font-family: 'Heebo', sans-serif;
+}
+
+h2{
+    font-size: 40px;
+    font-family: 'Heebo', sans-serif;
+    padding-left:10px;
+}
+
+footer{
+    background-color: #595959;
+}
+footer p{
+    color:white;
+    font-family: 'Mate', serif;
+}
+main video{
+    width:100%;
+}
+
+header img{
+    width:50%;
+}
+
+body{
+    background-color:rgb(234, 233, 240);
+}
+
+h3{
+    font-family:'Heebo', sans-serif;
+}
+
+p{
+    padding-left:10px;
+    font-family: 'Karma', serif;
+}
+
+main ol li{
+    padding-left:45px;
+    font-family: 'Karma', serif;
+}
+
+nav img{
+    width: 5%;
+}
+
+
+/* vanaf hier is het extra*/
+
+div img{
+    width:100%;
+    opacity: 0.7;
+}
+
+#briefing{
+    background-color:rgb(228, 224, 235);
+}
+
+#tekst p{
+    padding-bottom: 30px;
+    font-family: 'Nunito Sans', sans-serif;
+    padding-left:10px;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+.productie{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:	 #262626;
+    font-size: 150px;
+    font-family: 'Roboto Slab', serif;
+}
+li a:hover {
+    background-color: #555;
+    color: white;
+  }
+  .active {
+    background-color: #473232;
+    color: white;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
